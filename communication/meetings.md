@@ -1,10 +1,10 @@
 # The Good the Bad and the Ugly
 
- "Oh no! The status meeting at 13h; Two hours of my life utterly wasted today."
+> "Oh no! The status meeting at 13h; Two hours of my life utterly wasted today."
  
- "I wish this person to stop talking just for a minute so I can hear anything else but them!"
+> "I wish this person to stop talking just for a minute so I can hear anything else but them!"
  
- "Better bring coffee and cookies, this one is going to last for a while.."
+> "Better bring coffee and cookies, this one is going to last for a while.."
 
 These thoughts may be familiar to you. If so, you came to the right place.
 
