@@ -1,0 +1,3 @@
+# About Berik
+
+Story time...
