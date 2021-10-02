@@ -24,7 +24,7 @@ I insist you do that now. Calculate the total meeting cost for your team.
 
 The calculated cost is what your company invests into meetings. And what for? To make you feel unhappy? To waste your time? Is it because your company hates its office workers? I don't believe so.
 
-Besides the company cost, there is also the mental energy cost of meetings. As a meeting participant you can be either drained of energy. This cost is harder to calculate, and varies strongly from person to person and meeting to meeting. It is also possible to have meetings that boost mental energy. Can you think back to those meetings? What were their properties?
+Besides the company cost, there is also the mental energy cost of meetings. As a meeting participant you can be drained of energy. This cost is harder to calculate, and varies strongly from person to person and meeting to meeting. It is also possible to have meetings that boost mental energy. Can you think back to those meetings? What were their properties?
 
 So why do we have meetings? Meetings are important.
 

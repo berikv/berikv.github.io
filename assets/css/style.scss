@@ -3,18 +3,25 @@
 
 @import "{{ site.theme }}";
 
-h3 { margin-bottom: 10px; }
+header h3 { margin-bottom: 10px; }
 
-.post-list {
+header .post-list {
     list-style-type: none;
-}
-
-.post-list {
     margin: 0px;
     padding-left: 10px;
 }
 
-.post-list .current a:link { color: #888; }
-.post-list .current a:visited { color: #888; }
-.post-list .current a:hover { color: #888; font-weight: normal; }
-.post-list .current a:active { color: #888; }
+header .post-list .current a:link { color: #888; }
+header .post-list .current a:visited { color: #888; }
+header .post-list .current a:hover { color: #888; font-weight: normal; }
+header .post-list .current a:active { color: #888; }
+
+footer ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+content strong {
+    font-weight: 500;
+}
