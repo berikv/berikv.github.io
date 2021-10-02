@@ -1,1 +1,16 @@
+title: Berik Visschers
+email: berik@visschers.nu
+description: >-
+  Berik blogs about technology, office work, health and his hobbies.
+domain: visschers.nu
+url: "https://visschers.nu"
+baseurl: ""
+
+twitter_username: berikv
+github_username:  berikv
+
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+minima:
+  skin: dark
