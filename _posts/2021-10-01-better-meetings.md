@@ -121,6 +121,18 @@ Consider these two questions:
 
 ### Equal speaking time for each participant
 
+By sticking to the above principles money and mental energy wasting has been greatly reduced. Now it is time to build up the moral energy into the positive. How can a meeting give mental energy to its participants?
+
+This is one reason why standup meetings are so successful: Everyone gets to say at least something.
+
+If you talk for 80% of the time, don't have a meeting. Instead prepare a **presentation**.
+
+We often feel the need to help others by finishing their sentences and filling in their ideas. Especially the leads and managers tend to have this tendency. Cutting others off while they are trying to share their ideas is not going to help them or you. Unfortunately it is not easily recognized when you do it yourself (I speak form experience). **Help by interrupting the interruption**. Make sure that each participant can make their point uninterrupted until it is understood. Give time to those participants who speak slowly. The goal is to have roughly equal amount of input from each participant.
+
+There is no hierarchy between the meeting participants. Remember that each participant has prepared well and is in the meeting to share their expertise.
+
+Some leaders have the tendency to act like a TV show host. After introducing the topic, they ask a question to one of the participants, repeat their answer and explain it in more detail, then repeat until it is time to wrap up. This communication style has two benefits: The other participants can safely wait until a specific question is asked to them and give the shortest answer possible. The leader has full control over the progress of the meeting and can mute any discussion simply because they own the whole meeting and all what is said within.
+
 
 
 ### Disagreements are addressed
