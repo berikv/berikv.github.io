@@ -62,7 +62,7 @@ These are attributes of a pleasant meeting.
 
 ### One Topic
 
-Limit the amount of things you want to discuss in the meeting to ONE. This allows you to invite fewer people. The meeting can also be shorter.
+Limit the amount of things you want to discuss in the meeting to **ONE**. This allows you to invite fewer people. The meeting can also be shorter.
 
 ### Topic actually needs collaboration now
 

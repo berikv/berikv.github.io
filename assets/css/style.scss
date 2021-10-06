@@ -1,7 +1,91 @@
 ---
 ---
 
+
 @import "{{ site.theme }}";
+
+/* Colors */
+
+$background-light: #eee;
+$background-dark: #202020;
+
+$title-light: #343434;
+$title-dark: #e7e8eb;
+
+$text-light: #727272;
+$text-dark: #acb2b8;
+
+$bold-light: #000;
+$bold-dark: #fff;
+
+$link-visited: #888;
+
+header .post-list .current a:link { color: $link-visited; }
+header .post-list .current a:visited { color: $link-visited; }
+header .post-list .current a:hover { color: $link-visited; font-weight: normal; }
+header .post-list .current a:active { color: $link-visited; }
+
+body {
+    color: $text-light;
+}
+
+h1, h3 {
+    color: $title-light;
+}
+
+strong {
+    color: $bold-light;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: $background-dark;
+        color: $text-dark
+    }
+
+    h1, h2, h3 {
+        color: $title-dark;
+    }
+
+    strong {
+        color: $bold-dark;
+    }
+}
+
+/* Fonts */
+
+@font-face { font-family: WildBloodReguler; src: url('/assets/fonts/wild-blood-font/Wild-Blood.woff'); }
+@font-face { font-family: 'Source Sans Pro'; src: url('/assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf'); }
+
+body {
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 31.5px;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+header,
+header h3,
+header li {
+    font-size: 16px;
+}
+
+section li {
+    font-size: 19px;
+}
+
+section h2 {
+    font-family: WildBloodReguler, sans-serif;
+    font-size: 20px;
+}
+
+section strong {
+    font-weight: normal;
+}
+
+/* header layout */
 
 header h3 { margin-bottom: 10px; }
 
@@ -11,10 +95,7 @@ header .post-list {
     padding-left: 10px;
 }
 
-header .post-list .current a:link { color: #888; }
-header .post-list .current a:visited { color: #888; }
-header .post-list .current a:hover { color: #888; font-weight: normal; }
-header .post-list .current a:active { color: #888; }
+/* footer layout */
 
 footer ul {
     list-style-type: none;
@@ -22,6 +103,20 @@ footer ul {
     padding: 0px;
 }
 
-section strong {
-    font-weight: 500;
+/* section layout */
+
+section h2 {
+    margin-top: 30px;
+}
+
+.post-title .author {
+    font-size: 14px;
+    display: inline;
+}
+
+/* post layout */
+
+section .date {
+    font-style: italic;
+    font-size: 16px;
 }
