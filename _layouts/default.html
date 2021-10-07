@@ -8,6 +8,8 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="me" href="https://twitter.com/berikv">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -21,6 +23,12 @@
       // but it's recommended you remove it for production
       mixpanel.init('ecaff1520ddea65e5df3bb6b7b41847c', {debug: true}); 
       mixpanel.track('{{ page.title }}');
+
+      mixpanel.track_links("#share-hn","Share HN");
+      mixpanel.track_links("#share-twitter","Share Twitter");
+      mixpanel.track_links("#share-reddit","Share Reddit");
+      mixpanel.track_links("#share-linkedin","Share LinkedIn");
+
     </script>
   </head>
   <body>
