@@ -3,24 +3,24 @@ layout: post
 title: "Better Meetings"
 author: Berik Visschers
 date: 2021-10-01 15:22:00 +0200
-abstract: Test
+abstract: Pleasant meetings give you energy while bad meetings drain your energy. What constitutes a pleasant meeting? How can meetings be improved?
 categories: communication
 ---
 
 ## The Good the Bad and the Ugly
 
 > "Oh no! The status meeting is today; Another two hours of my life utterly wasted."
- 
+
 > "I wish this person to stop talking just for a minute so I can hear anything else but them!"
- 
+
 > "Better bring coffee and cookies to this meeting, it is going to last for a while.."
 
 If these thoughts sound familiar to you, you came to the right place.
 
-Did you know that meetings score the lowest out of all office activities? And they are also bloody expensive!
-Lets calculate how much  meetings actually cost. Open your calendar and add all the time spend in meetings last week. Then multiply by the average amount of people in those meetings, then multiply by the average hourly rate.
+Did you know that meetings receive the lowest productivity score of all office activities?
 
-I insist you do that now. Calculate the total meeting cost for your team.
+Not only that, meetings are also expensive for the company you work for.
+Lets calculate how much a meeting actually cost your company. Open your calendar and add all the time spend in meetings last week. Then multiply by the average amount of people in those meetings, then multiply by the average hourly rate. I insist you do that now. Calculate the total meeting cost for your team.
 
 The calculated cost is what your company invests into meetings. And what for? To make you feel unhappy? To waste your time? Is it because your company hates its office workers? I don't believe so.
 
@@ -36,14 +36,14 @@ So why do we have meetings? Meetings are important.
 - Meetings can initiate a change in culture or process
 - Meetings are used to make a good impression on your coworkers
 
-Clearly meetings have many uses. To improve meetings, some of these uses will have to find a different place or format.
+Clearly meetings have many uses. And they are not liked much. Can we untangle this? Is it possible to improve meetings in general? What would a nice meeting be like?
 
-Lets unpack the overloaded word "Meeting". In this article, "meeting" means a group of people getting together sharing work status and solutions, interact and discuss, and make decisions together.
+Lets first unpack the overloaded word "Meeting". In this article, a "meeting" means that a group of people getting together to share their work status, suggest new solutions, interact and discuss, and make decisions.
 
 In this article, the word "meeting" is NOT used for
 
 - Presentations
-- Social gathering
+- Social gatherings
 - Team lunch
 - Outage mitigation
 
@@ -54,15 +54,16 @@ These are attributes of a pleasant meeting.
 1. One Topic
 2. Topic actually needs collaboration now
 3. Only include people absolutely needed
-4. Well Prepared by all participants
-5. Equal speaking time for each participant
+4. Well Prepared
+5. Equal speaking time
 6. Disagreements are addressed
-7. Book 15 minutes for a meeting, 30 minutes absolute maximum
-8. Avoid booking meetings during focus times
+7. Care for your invitees
+8. No longer than half an hour
+9. Share the meeting notes
 
 ### One Topic
 
-Limit the amount of things you want to discuss in the meeting to **ONE**. This allows you to invite fewer people. The meeting can also be shorter.
+Limit the amount of things you want to discuss in the meeting to **ONE**. This allows you to invite fewer people. The meeting will also be shorter.
 
 ### Topic actually needs collaboration now
 
@@ -88,9 +89,9 @@ Giving responsibility and trust boosts the team spirit as well as the mental ene
 
 With fewer persons in a meeting the risk of misunderstandings and unneeded discussions is also reduced.
 
-### Preparation
+### Well Prepared
 
-The biggest time and mental energy is wasted during meetings by **Misunderstandings**.
+The biggest time and mental energy is wasted during meetings by **misunderstandings**.
 
 I've been in meetings where the central topic had to be explained up to three times because attendees did not know the details of what is being discussed (and they got confused or where not paying attention the first and second time). Other attendees get bored or frustrated by all this repetition. They may interrupt the explanation to try and speed it up, causing even more confusion. Avoid this situation at all cost by preparing well.
 
@@ -98,15 +99,15 @@ Prepare as the organizer.
 
 - Describe the topic in a document and share it well before the meeting
 - Use images and diagrams to clarify the topic further
-- Answer questions about the topic with enough detail, update the document with the answers
 - Ask the meeting participants to read up and prepare
+- Answer questions about the topic with enough detail, update the document with the answers
 
 Prepare as a participant.
 
 - Your expertise is asked for
 - Be the expert
-- Study beforehand
-- Have answers on your specialty ready
+- Study the topic
+- Have answers on your expertise ready
 - Prepare questions that can be answered by the other invitees
 
 There is a big difference between a well prepared question and a not-so-well prepared one.
@@ -116,10 +117,10 @@ Consider these two questions:
 - "Can't we speed up our authentication service?"
 - "What would it cost to improve the 95th percentile response time from 300ms to 100ms on the authentication service?"
 
- The latter question clearly needed preparation: You needed to figure out what kind of reasonable improvement still yields a much better user experience. It also is a question that clearly has an answer.
+ The latter question needed preparation: You needed to figure out what kind of reasonable improvement still yields a much better user experience. It also is a question that unambiguously asks for an answer.
  The former question, on the other hand, will likely be met with a shoulder shrug, or worse, with a defensive attitude.
 
-### Equal speaking time for each participant
+### Equal speaking time
 
 By sticking to the above principles money and mental energy wasting has been greatly reduced. Now it is time to build up the moral energy into the positive. How can a meeting give mental energy to its participants?
 
@@ -133,17 +134,44 @@ There is no hierarchy between the meeting participants. Remember that each parti
 
 Some leaders have the tendency to act like a TV show host. After introducing the topic, they ask a question to one of the participants, repeat their answer and explain it in more detail, then repeat until it is time to wrap up. This communication style has two benefits: The other participants can safely wait until a specific question is asked to them and give the shortest answer possible. The leader has full control over the progress of the meeting and can mute any discussion simply because they own the whole meeting and all what is said within.
 
-
-
 ### Disagreements are addressed
 
-Maximum one level of 'back and forth' for a disagreement
+Disagreements are bound to happen, especially during meetings. Follow these steps to make the most out of a disagreement.
 
-## How to Change Meetings
+1. Speak up, make it clear that you disagree
+2. Validate, together, that the disagreement is not because of a misunderstanding
+3. Document the arguments
+4. Document the difference in values
+5. Continue with the rest of the meeting
 
-Because we are lazy and it is easier to capture the existing meeting for some information that only half of the group needs.
-Having energetic short meetings requires preparation and organisation.
+After the meeting, validate your understanding of the different viewpoints. Share a summary of the disagreements.
 
-To make things worse, improving meetings requires preparation, organisation and more time investment from **Managers, PMs and other leadership functions**.
-The time of these leaders is the most valued, so better keep the interaction with the team simple right? Just one two-and-a-half-hour pain session and you are done with your leadership obligations for this week towards this team.
-Leaders set the example. To become a leader, you better have your own two-and-a-half hour meetings planned next year.
+Keep in mind that each person has their own view and acts out of their own best interest.
+
+Look for common ground. Suggest experimenting one way or the other to find whats best.
+
+Commit to resolving the disagreement and let the others know that you commit to the solution.
+
+### Care for your invitees
+
+Care for your invitees, both professionally and personally.
+
+- Book the meeting during a convenient time (think of timezones, avoid focus hours)
+- Make sure that your invitees can join, consider asking them to be on time
+- Tell each invitee why you value their contribution
+- Check if all participants feel fine (not ill, tired, rushed)
+- Stop the meeting well before invitees have to leave
+
+### No longer than half an hour
+
+When you step into the room where a 60 minutes meeting will take place, you can sense it. People are being distracted, talking about their weekends, while the person who'll do most of the talking is very busy looking in their notes and making some last minute adjustments to their slides. These types of meetings are the pain of office life. Often this type of meeting will feature a presentation part and then some interaction between a few of the attendees. There will also be a part of the team that wished they could continue their normal work, and maybe even a part that just continues their normal work **during** the meeting. Often these meetings are also recurring.
+
+Now there may be very good reasons for a 60 minute meeting. For example when the invitees have to travel far or are otherwise not available for several shorter meetings. If those reasons exist, then inform your invitees about them. Your invitees are more likely to understand why you ask them to sit through it.
+
+Our attention span is only so long. And way shorter than most meetings we are in.
+
+A 15 minute meetings are rated the most effective. Aim for that sweet spot.
+15 minutes may sound short but 15 minutes can be more than enough when everyone came well prepared.
+
+## How to change your Meetings
+
