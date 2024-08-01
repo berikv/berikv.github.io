@@ -7,6 +7,8 @@ abstract: Pleasant meetings give you energy while bad meetings drain your energy
 categories: communication
 ---
 
+
+
 ## The Good the Bad and the Ugly
 
 > "Oh no! The status meeting is today; Another two hours of my life utterly wasted."
@@ -17,7 +19,7 @@ categories: communication
 
 If these thoughts sound familiar to you, you came to the right place.
 
-Did you know that meetings receive the lowest productivity score of all office activities?
+Did you know that meetings receive the lowest productivity rating? *Add reference to actual data*
 
 Not only that, meetings are also expensive for the company you work for.
 Lets calculate how much a meeting actually cost your company. Open your calendar and add all the time spend in meetings last week. Then multiply by the average amount of people in those meetings, then multiply by the average hourly rate. I insist you do that now. Calculate the total meeting cost for your team.
@@ -38,9 +40,9 @@ So why do we have meetings? Meetings are important.
 
 Clearly meetings have many uses. And they are not liked much. Can we untangle this? Is it possible to improve meetings in general? What would a nice meeting be like?
 
-Lets first unpack the overloaded word "Meeting". In this article, a "meeting" means that a group of people getting together to share their work status, suggest new solutions, interact and discuss, and make decisions.
+Lets first unpack the overloaded word "Meeting". In this article, a "meeting" means that a group of people spend time together to share their work status, review / discuss / plan their work, and make decisions.
 
-In this article, the word "meeting" is NOT used for
+In this article, the word "meeting" is **not** used for
 
 - Presentations
 - Social gatherings
@@ -49,27 +51,24 @@ In this article, the word "meeting" is NOT used for
 
 ## A Good Meeting
 
-These are attributes of a pleasant meeting.
+...
 
-1. One Topic
-2. Topic actually needs collaboration now
-3. Only include people absolutely needed
-4. Well Prepared
-5. Equal speaking time
-6. Disagreements are addressed
-7. Care for your invitees
-8. No longer than half an hour
-9. Share the meeting notes
+### 1. One Topic
 
-### One Topic
+Limit the amount of things you want to discuss in the meeting to just **one**.
+Doing so will unlock all other ways to improve the meeting. For example, it is easier to invite fewer people and to prepare well and have a shorter meeting if there is only one topic to be discussed.
 
-Limit the amount of things you want to discuss in the meeting to **ONE**. This allows you to invite fewer people. The meeting will also be shorter.
+### 2. Topic actually needs collaboration now
 
-### Topic actually needs collaboration now
+Before sending out the invite, ask yourself if the issue you want to address during the meeting really needs other peoples attention, and if a meeting is the right way to address it.
 
-Do not bring people together and ask them to spend time discussing a topic that has no actual problem. This may sound obvious, but think back. I'm sure you can think of discussions that ended with no solution because there was no actual problem in the first place. Avoiding these topics altogether is a big time saver and mental energy booster.
+For example; Consider replacing a weekly status update meeting with an e-mail or website that features the latest status updates. You could even record demo's and feature those. Then if a stakeholder has feedback, you can plan a meeting specifically for receiving that feedback.
 
-### Only include people absolutely needed
+Another example; Imagine you have a great idea on your way to work. You want to tell your coworkers, get their buy-in and start working on it. If you would continue to follow these desires, your coworkers may not receive it so well: Will this idea work? How will their work be impacted? Should they stop working now and change everything?
+
+A better approach is to old off your temptation to share your idea. Instead draw it and / or write your idea down. Explain it in words that your team can understand. Write down what will change, what the downsides are of following your idea. Now if you still feel that your idea is great, you can start sharing it. Now is the time to share your notes and draw it on a whiteboard. You have the answers ready for the most obvious questions.
+
+### 3. Only include people absolutely needed
 
 Get the number of invites down.
 
@@ -89,7 +88,7 @@ Giving responsibility and trust boosts the team spirit as well as the mental ene
 
 With fewer persons in a meeting the risk of misunderstandings and unneeded discussions is also reduced.
 
-### Well Prepared
+### 4. Well Prepared
 
 The biggest time and mental energy is wasted during meetings by **misunderstandings**.
 
