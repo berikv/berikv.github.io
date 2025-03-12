@@ -1,34 +1,8 @@
 <footer>
     <ul id="share">
-        {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
-        <li>
-            <a id="share-hn" href="https://news.ycombinator.com/submitlink?u={{ url | url_encode }}&t={{ page.title | url_encode }}" target="_blank">
-                <img src="{{ "assets/img/y18.gif" | relative_url }}" width="20" height="20" style="border:1px white solid;" alt="Post on HackerNews">
-            </a>
-        </li>
-        <li>
-            <a id="share-twitter" href="http://www.twitter.com/share?url={{ url | url_encode }}&text={{ page.title | url_encode }} by @berikv" target="_blank">
-                <img src="{{ "assets/img/Twitter_Logo.png" | relative_url }}" height="22" alt="Tweet">
-            </a>
-        </li>
-        <li>
-            <a id="share-reddit" href="https://www.reddit.com/submit?url={{ url | url_encode }}" target="_blank">
-                <picture>
-                    <source srcset="{{ "assets/img/Reddit_Lockup_OnDark.png" | relative_url }}" media="(prefers-color-scheme: dark)">
-                    <img src="{{ "assets/img/Reddit_Lockup_OnWhite.png" | relative_url }}" alt="Share on Reddit" height="20">
-                </picture>
-            </a>
-        </li>
-        <li>
-            <a id="share-linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url={{ url | url_encode }}" target="_blank">
-                <img src="{{ "assets/img/LI-Logo.png" | relative_url }}" height="16" style="background-color: white; border: 1px solid white;" alt="Post on LinkedIn">
-            </a>
-        </li>
-        
+        {% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}        
     </ul>
     
-    <ul>
-        <li>Hosted on GitHub Pages</li>
-        <li><a href="https://github.com/berikv">Beriks github</a></li>
+    <a href="https://github.com/berikv"><img src="assets/img/github-mark-white.png" alt="Beriks github" width="20px" height="20px" /></a> Hosted on GitHub Pages
     </ul>
 </footer>
