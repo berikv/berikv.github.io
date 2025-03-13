@@ -41,9 +41,9 @@ Double check that the **ground** of the jack side is connected to **ground** on 
 On the cable with the replacement jack plug, the right channel has reddish enamel and the left channel has greenish enamel, Cute!
 
 I add some shrink tube over the soldering job on the left and right cores.
-The shrink tube as a tendency to shrink while the joint is being soldered.
+The shrink tube has a tendency to shrink while the joint is being soldered.
 That is no problem though, I can snip off the shrunk part and use the rest.
-Or wiggle the shrunk part over the solder joint. Either way, keep in mind
+Or wiggle the shrunken part over the solder joint. Either way, keep in mind
 to add shrink tube **before** soldering the joint.
 
 In this case I used electrical tape as an outer insulation, which also protects the soldering joint a little from anyone jerking the cable.
