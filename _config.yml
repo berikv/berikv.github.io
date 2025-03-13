@@ -1,12 +1,11 @@
-title: Berik Visschers
+title: Berik's blog
 email: berik@visschers.nu
 description: >-
-  Berik blogs about technology, office work, health and his hobbies.
+  A log of repairs and creations
 domain: visschers.nu
 url: "https://visschers.nu"
 baseurl: ""
 
-twitter_username: berikv
 github_username:  berikv
 
 theme: jekyll-theme-minimal
