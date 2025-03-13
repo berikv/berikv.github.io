@@ -14,9 +14,9 @@ There are plenty of tiny screws, all different. There are springs and clips that
 A repair café setting, where kids are running around, a customer is waiting, time pressure, etc, is no place
 for such a repair.
 
-After many years of service, most direct drive Walkman develop the some or most of these issues.
+After many years of service, Direct Drive Walkman develop some issues.
 
-This Walkman in particular had these three:
+This particular Walkman has these three:
 
 1. A plastic gear, which is cast around an iron ring, tears open.
    After that, the Walkman will still play cassettes, but the broken gear will cause
@@ -49,7 +49,7 @@ Tools and consumables used:
 * Size 3 flat screwdriver, for bending metal
 * Tin, Flux
 * Q-tips
-* Isopropyl Alcohol
+* Isopropyl Alcohol for cleaning
 * Grease
 * Light oil
 
@@ -63,13 +63,14 @@ These screws have different sizes.
 
 Tip:
 
-* Make a foto before removing the screw
+* Make a photo before removing the screw
 * Remove the screw, place it in a compartment of the container
-* Make a foto of the container with the screw compartment centered
+* Make a photo of the container with the screw compartment centered
 
-Now when you assemble, it is pretty simple to figure out what goes where.
-Screws with the same size can be put together. Make sure it is clear from the
-photo alone, which location on the device and which compartment the screw is in.
+<img src="/assets/img/repairs/sony_walkman/walkman_partbox_in_use.jpg" />
+
+With this process, during assembly it is pretty simple to find out what part goes where.
+Make sure it is clear from the **photo alone**, which location on the device and which compartment the screw is in.
 
 Once the door and front are off, you can undo the screws of the PCB.
 
@@ -77,10 +78,10 @@ Careful with the tiny wires, they don't need much force to break.
 
 Take enough pictures so that you know which wire goes where, in case they do break.
 
-When the screws are loose, lift the PCB and the main gear will show. If it is cracked, order a [replacement main gear from Fix Your Audio](https://fixyouraudio.com/product/sony-tcm-d3-walkman-new-center-gear-repair-kit/).
+When the screws are loose, lift the PCB. The main gear will be visible. Rotat it manually and find if it is cracked, order a [replacement main gear from Fix Your Audio](https://fixyouraudio.com/product/sony-tcm-d3-walkman-new-center-gear-repair-kit/).
 The Sony DD has the same gear as the TCM-D3 aparently. Or they are not too different.
 
-To be able to access the mechanics, you will need to desolder the audio head.
+To be able to access the mechanics, you will need to desolder the tape head from the PCB.
 <img src="/assets/img/repairs/sony_walkman/walkman_audio_head.jpg" />
 
 There are four wires: ground (unschielded) in the top right, white, yellow and red.
@@ -91,10 +92,9 @@ Once the wires are desoldered, stow away your soldering iron. You'll need it aga
 Flip the PCB over, careful not to break any of the other wires.
 
 Remove the Play, Stop, FF, FR buttons. Not only the button, but also the lever below it.
-The stop lever is held in place with a tab. Force it, but do not break it. Use a spudge / tweezer / flathead screwdriver
-to work the lever out of its position.
+The stop lever is held in place with a tab. Force it out.
 
-Remove the capston wheel by removing the three screws on the tape side.
+Remove the capstan wheel by removing its cover and the three screws on the tape side.
 
 Remove the motor.
 
@@ -118,11 +118,25 @@ So there is actually no need to separate the top gear from the stack.
 Note the red dot, indicating the bottom of the plastic gear.
 
 Fix Your Audio did a nice job of creating a repair part. This part is designed by someone with a Walkman passion.
-Marking the components with color ink to indicate top / bottom shows how thoughtfull they are towards the repairman.
-That said, again, this is not an easy repair.
+Marking the components with color ink to indicate top / bottom shows how thoughtfull they are towards repairmen.
 
 Clean the moving parts. The sliding bushings can be cleaned on the inside using a paper rod Q-tip:
 <img src="/assets/img/repairs/sony_walkman/walkman_clean.jpg" />
 
-Now reverse all disassembly, and enjoy some music from 1995!
+Clean the button levers and travel ways. This should free up the buttons.
+
+With the main gear and button action fixed, it is time to look at the fast reverse action.
+
+First place back gears, capstan wheel, and buttons.
+
+The reverse action issue happens due to a metal lever being bend. Probably a mix of stuck buttons, user pressing hard and aging makes the lever bend downwards.
+When the lever is too low during fast reverse, it engages the fast forward gear. Making both reel drive spindles rotate opposite directions.
+
+The metal sheet can be bend back up using pliers:
+<img src="/assets/img/repairs/sony_walkman/walkman_fix_rew.jpg" />
+
+Use a screwdriver to keep the middle of the lever down, while lifting the gear side up. Bend a little, then test, then bend a bit more.
+Repeat this until the reverse action works both this side up as well as tape side up. Then bend a bit more again.
+
+Now reverse all remaining disassembly, and enjoy some music from 1995!
 <img src="/assets/img/repairs/sony_walkman/walkman_music.jpg" />
