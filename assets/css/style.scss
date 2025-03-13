@@ -58,27 +58,16 @@ strong {
     color: $bold-light;
 }
 
-.github-logo {
-    display: none;
-}
-
-.light-mode {
-    display: inline;
-}
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
-    .light-mode {
-        display: none;
-    }
-
-    .dark-mode {
-        display: inline;
-    }
-    
     body {
         background-color: $background-dark;
         color: $text-dark
+    }
+
+    header h3 {
+        color: $text-dark;
     }
 
     footer {
@@ -99,6 +88,10 @@ strong {
 
     strong {
         color: $bold-dark;
+    }
+
+    .github-logo {
+        content: url('/assets/img/github-mark-white.png');
     }
 }
 
@@ -143,7 +136,9 @@ a:link {
 
 /* header layout */
 
-header h3 { margin-bottom: 10px; }
+header h3 {
+    margin-bottom: 10px;
+}
 
 header .post-list {
     margin-bottom: 40px;
@@ -157,12 +152,16 @@ header .post-list ul {
 
 /* footer layout */
 
+/* General Footer Styles */
 footer {
+    display: flex;
+    flex-direction: column;
     font-size: 16px;
     bottom: 0;
     padding-bottom: 50px;
 }
 
+/* Gradient Effect */
 footer::before {
     content: "";
     position: absolute;
@@ -172,14 +171,29 @@ footer::before {
     height: 40px;
 }
 
-footer ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
+/* Link Styling */
+.footer-link {
+    display: flex;
+    flex-direction: row;    /* Icons and text side by side */
+    align-items: center;    /* Vertically align text and icons */
+    gap: 5px;               /* Space between icon and text */
+    text-decoration: none;
 }
 
-#share {
-    margin-bottom: 24px;
+/* Icon Sizing */
+.footer-link img {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding-right: 8px;
+    filter: grayscale(50%) brightness(75%);
+}
+
+footer {
+    a:hover img,
+    a:focus img {
+        filter: grayscale(0%) brightness(100%);
+    }
 }
 
 /* section layout */
@@ -198,14 +212,4 @@ section h2 {
 section .date {
     font-style: italic;
     font-size: 16px;
-}
-
-
-/* Share */
-
-#share {
-    a:hover img,
-    a:focus img {
-        filter: grayscale(20%) brightness(75%);
-    }
 }
