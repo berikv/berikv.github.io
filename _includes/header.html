@@ -8,13 +8,21 @@
     <p>{{ site.description | default: site.github.project_tagline }}</p>
 
     <div class="post-list">
-      <h3>Recent</h3>
+      <a href="/repairs"><h3>Repairs</h3></a>
       <ul>
       
-      {% for post in site.posts | sort: "date" | limit: 4 %}
-      <li{% if post.url == page.url %} class="current" {% endif %}><a href="{{ post.url }}">{{ post.categories | join | capitalize }} / {{ post.title }}</a></li>
+      {% for post in site.posts | where: "categories", "Repairs" | sort: "date" | limit: 10 %}
+      <li{% if post.url == page.url %} class="current" {% endif %}><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
       </ul>
     </div>
+
+    <!-- <div class="post-list">
+        <h3>Other</h3>
+        {% for post in site.posts | sort: "date" | limit: 10 %}
+        <li{% if post.url == page.url %} class="current" {% endif %}><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </div> -->
 
   </header>
