@@ -5,6 +5,7 @@ author: Berik Visschers
 date: 2021-10-01 15:22:00 +0200
 abstract: Pleasant meetings give you energy while bad meetings drain your energy. What constitutes a pleasant meeting? How can meetings be improved?
 categories: communication
+published: false
 ---
 
 
