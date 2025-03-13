@@ -1,0 +1,128 @@
+---
+layout: post
+title: Sony DD Walkman Broken Gear
+author: Berik Visschers
+date: 2025-03-06 16:00:00 +0200
+abstract: Sony DD Walkman Broken Gear replacement
+categories: Repairs
+---
+
+I agreed to take this repair home. This repair needs parts to be ordered. Also the repair is quite intense.
+Especially if it is the first time you open a Sony DD Walkman. This device is high-tec from another era.
+There are plenty of tiny screws, all different. There are springs and clips that like to fly and disappear.
+
+A repair café setting, where kids are running around, a customer is waiting, time pressure, etc, is no place
+for such a repair.
+
+After many years of service, most direct drive Walkman develop the some or most of these issues.
+
+This Walkman in particular had these three:
+
+1. A plastic gear, which is cast around an iron ring, tears open.
+   After that, the Walkman will still play cassettes, but the broken gear will cause
+the audio to stop briefly every 2 seconds or so.
+   You can hear the issue also when listening to the mechanics. There is a tick sound
+every 2 seconds or so.
+2. The Fast Reverse does no longer work. With no tape inserted both reel drive spindles turn in opposite
+   directions.
+3. The play, stop, ff, fr buttons get stuck in the pressed position
+
+The walkman
+<img src="/assets/img/repairs/sony_walkman/walkman_front.jpg" />
+
+The broken gear:
+<img src="/assets/img/repairs/sony_walkman/walkman_broken_gear.jpg" />
+
+The gear likely breaks because it is tighly fit around a metal wheel. Plastic and metal have different thermal expansion coefficients,
+causing the metal wheel to expand faster than the plastic. When the Walkman gets sufficiently hot, the expanded metal wheel can break the plastic gear open.
+
+Fix Your Audio has a [great tutorial on how to disassemble, replace the gear and lubricate the Walkman](https://fixyouraudio.com/tutorials/sony-dd-series-step-by-step-repair-guide-for-dummies/),
+which I used during the repair. If you want to repeat this repair, make sure to follow their instructions.
+
+Tools and consumables used:
+
+* Wiha PZ0x60 HR313 screwdriver
+* Tiny tweezers for the springs
+* Soldering iron
+* Storage box with many compartments for holding the screws and other parts
+* Flatnose pliers, for bending metal
+* Size 3 flat screwdriver, for bending metal
+* Tin, Flux
+* Q-tips
+* Isopropyl Alcohol
+* Grease
+* Light oil
+
+<img src="/assets/img/repairs/sony_walkman/PZ0x60_HR313_screwdriver.jpg" />
+<img src="/assets/img/repairs/sony_walkman/walkman_partbox.jpg" />
+
+Step one in disassembly are the screws on the outside of the case.
+
+There are two screws holding the door in place, and three more holding the front.
+These screws have different sizes.
+
+Tip:
+
+* Make a foto before removing the screw
+* Remove the screw, place it in a compartment of the container
+* Make a foto of the container with the screw compartment centered
+
+Now when you assemble, it is pretty simple to figure out what goes where.
+Screws with the same size can be put together. Make sure it is clear from the
+photo alone, which location on the device and which compartment the screw is in.
+
+Once the door and front are off, you can undo the screws of the PCB.
+
+Careful with the tiny wires, they don't need much force to break.
+
+Take enough pictures so that you know which wire goes where, in case they do break.
+
+When the screws are loose, lift the PCB and the main gear will show. If it is cracked, order a [replacement main gear from Fix Your Audio](https://fixyouraudio.com/product/sony-tcm-d3-walkman-new-center-gear-repair-kit/).
+The Sony DD has the same gear as the TCM-D3 aparently. Or they are not too different.
+
+To be able to access the mechanics, you will need to desolder the audio head.
+<img src="/assets/img/repairs/sony_walkman/walkman_audio_head.jpg" />
+
+There are four wires: ground (unschielded) in the top right, white, yellow and red.
+The PCB silkscreen helpfully shows single letters indicating the wire colors (attention to detail!).
+
+Once the wires are desoldered, stow away your soldering iron. You'll need it again to fix these wires at the end.
+
+Flip the PCB over, careful not to break any of the other wires.
+
+Remove the Play, Stop, FF, FR buttons. Not only the button, but also the lever below it.
+The stop lever is held in place with a tab. Force it, but do not break it. Use a spudge / tweezer / flathead screwdriver
+to work the lever out of its position.
+
+Remove the capston wheel by removing the three screws on the tape side.
+
+Remove the motor.
+
+Remove the gear with a screw on top.
+
+Remove the audio head lever by first removing the snap ring, then the tiny spring, then gently wiggle it out.
+The lever is held in place by the plastic frame of the tape head on the tape side. Hold the tape head up
+while pulling the lever out. Take your time. Gentle.
+<img src="/assets/img/repairs/sony_walkman/walkman_audio_head_lever.jpg" />
+
+Pull the main gear assembly up. Do this gently. There is a spring below that wants to fly.
+Move slowly, then the spring will relax and stay where it is.
+
+The Fix Your Audio manual shows that the main gear must be separated from its accompanying smaller gear on top.
+I've tried, but these two gears are inseparable. Maybe the DD walkman has a slightly different main gear stackup.
+<img src="/assets/img/repairs/sony_walkman/replacement_main_gear.jpg" />
+
+Anyway, the broken gear can easily be removed from its metal support. The replacement part is screwed on.
+So there is actually no need to separate the top gear from the stack.
+
+Note the red dot, indicating the bottom of the plastic gear.
+
+Fix Your Audio did a nice job of creating a repair part. This part is designed by someone with a Walkman passion.
+Marking the components with color ink to indicate top / bottom shows how thoughtfull they are towards the repairman.
+That said, again, this is not an easy repair.
+
+Clean the moving parts. The sliding bushings can be cleaned on the inside using a paper rod Q-tip:
+<img src="/assets/img/repairs/sony_walkman/walkman_clean.jpg" />
+
+Now reverse all disassembly, and enjoy some music from 1995!
+<img src="/assets/img/repairs/sony_walkman/walkman_music.jpg" />
