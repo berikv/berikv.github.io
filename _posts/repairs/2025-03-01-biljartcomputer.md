@@ -26,7 +26,7 @@ I guess there is a community, challenging each other for competitions. Meeting I
 
 A whole world I didn't even know exists!
 
-On to the repair. The micro USB port that powers the device ripped off.
+On to the repair. The micro USB port that powers the device has ripped off.
 
 That is not uncommon for USB powered devices.
 

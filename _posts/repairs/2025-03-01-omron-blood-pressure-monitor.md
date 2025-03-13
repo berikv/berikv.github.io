@@ -100,7 +100,7 @@ Once fully assembled, the Start / Stop button does **not** work.
 
 ### The repair, continuation
 
-I remove the front panel and inspect.
+I remove the front panel and start inspection.
 
 **SW1**, the replaced microswitch, as you can see on the above picture,
 is just a bit taller than the other microswitches.

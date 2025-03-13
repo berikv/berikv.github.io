@@ -27,7 +27,7 @@ the audio to stop briefly every 2 seconds or so.
 every 2 seconds or so.
 2. The Fast Reverse does no longer work. With no tape inserted both reel drive spindles turn in opposite
    directions.
-3. The play, stop, Fast Forward, Fast Reverse buttons get stuck in the pressed position
+3. The Play, Stop, Fast Forward, Fast Reverse buttons get stuck in the pressed position
 
 The walkman
 <img src="/assets/img/repairs/sony_walkman/walkman_front.jpg" />
@@ -91,7 +91,7 @@ To be able to access the mechanics, you will need to desolder the tape head from
 <img src="/assets/img/repairs/sony_walkman/walkman_audio_head.jpg" />
 
 There are four wires: ground (unshielded) in the top right, white, yellow and red.
-The PCB silkscreen helpfully shows single letters indicating the wire colors (attention to detail!).
+The PCB silkscreen helpfully shows single letters indicating the wire colors. (Nice attention to detail, Sony!)
 
 Once the wires are desoldered, stow away your soldering iron. You'll need it again to fix these wires at the end.
 
