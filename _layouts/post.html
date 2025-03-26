@@ -3,16 +3,12 @@ layout: default
 ---
 
 <div class="post-title">
-<h1>{{ page.title }}</h1>
-<p class="author">by <strong>{{ page.author | default: site.author }}</strong></p>
+    <h1>{{ page.title }}</h1>
+    <p class="author">by <strong>{{ page.author | default: site.author }}</strong> on <strong>{{ page.date | date: "%-d %B %Y" }}</strong></p>
 </div>
-
-
 
 {{content}}
 
 {% if page.tags.count %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+<small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
-
-<p class="date">{{ page.date | date: "%-d %B %Y" }}</p>
