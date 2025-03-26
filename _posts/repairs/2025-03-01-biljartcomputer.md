@@ -1,7 +1,7 @@
 ---
 layout: post
 title: THE BILLIARD COMPUTER IS BACK ONLINE!
-author: Berik Visschers
+author: Berik
 date: 2025-03-01 14:30:00 +0200
 abstract: The micro USB port of a Biljartcomputer broke off, solder a new one on the PCB
 categories: Repairs

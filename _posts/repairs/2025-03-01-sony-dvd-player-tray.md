@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stuck in Spin: Reviving a Jammed DVD Tray"
-author: Berik Visschers
+author: Berik
 date: 2025-03-01 13:00:00 +0200
 abstract: Sony DVD Player Tray not opening, elastic band replacement
 categories: Repairs

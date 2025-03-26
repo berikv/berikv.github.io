@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Under Pressure: Breathing Life into a Medical Device"
-author: Berik Visschers
+author: Berik
 date: 2025-03-01 13:30:00 +0200
 abstract: Omron Blood Pressure Monitor Start / Stop button, diagnose, open up and microswitch replacement
 categories: Repairs

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sony DD Walkman: Broken Main Gear Replacement"
-author: Berik Visschers
+author: Berik
 date: 2025-03-06 16:00:00 +0200
 abstract: Sony DD Walkman Broken Gear replacement
 categories: Repairs

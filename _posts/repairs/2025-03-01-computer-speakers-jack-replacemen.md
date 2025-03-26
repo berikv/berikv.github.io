@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Speaker Jack Replacement
-author: Berik Visschers
+author: Berik
 date: 2025-03-01 14:00:00 +0200
 abstract: Computer Speaker Jack Replacement, Soldering a spare jack plug to the existing cable
 categories: Repairs
