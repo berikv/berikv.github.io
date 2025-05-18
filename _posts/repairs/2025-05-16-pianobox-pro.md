@@ -15,7 +15,7 @@ After lifting the back cover we're greeted with a screw stuck between the PCB an
 It turns out that Both screws of the computer board came loose, and the board finally unmounted itself.
 <img src="/assets/img/repairs/pianobox_pro/75D7964F-3B1E-4F88-9156-E956148C5593_1_105_c.jpeg" />
 
-This repair is simple: Remove the main PCB, refit the computer board to it. Then add some thread lock in the screw holes and quickly tie the screws.
+This repair is simple: Remove the main PCB, refit the computer board to it. Then add some thread lock in the screw holes and tie the screws before the glue sets.
 
 <img src="/assets/img/repairs/pianobox_pro/E4EC6639-BDDF-4A7A-BE0C-E54011D03832_1_105_c.jpeg" />
 
