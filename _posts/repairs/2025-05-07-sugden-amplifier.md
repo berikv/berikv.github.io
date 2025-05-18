@@ -38,6 +38,8 @@ The two big ones are the rectifier capacitors that failed completely. The others
 
 I leave the capacitors that measure fine — they've survived over 40 years, and chances are good they’ll survive another 40. For the out-of-spec capacitors in the photo, I order replacements.
 
+The PCB bend marks are not visible on the side with the traces, nothing to worry about. There is quite some 40 year old flux residue on the solder side of the PCB, which I clean up using some isapropanol alcohol.
+
 There isn’t much point in testing the amplifier without having good capacitors in place. Instead, I do some work on the front panel.
 <img src="/assets/img/repairs/sugden_a25/AD626992-F186-4CEB-BAAA-A35DF43F41D6_1_102_o.jpeg" />
 
@@ -62,21 +64,19 @@ I'm proud of the result:
 <img src="/assets/img/repairs/sugden_a25/43D713BD-6054-41CF-A7AA-EC3AE0B78C6C_1_105_c.jpeg" />
 <img src="/assets/img/repairs/sugden_a25/CDF1085A-D216-44C5-BBB9-BD44AAACD2CE_1_105_c.jpeg" />
 
-I fix the knobs in place with some silicone glue. This type of glue does not become fully hard, so the buttons can be replaced later if needed.
+I fix the knobs in place with some silicone glue. This type of glue does not become fully hard, therefore the buttons can be replaced later if needed.
 
 I show the result to the customer: "A red button?!" he responds jokingly. I tell him he’ll receive an extra black button and can decide which one to use himself.
 
-Once the capacitors arrive by mail, I continue with the electrical repair. With the new capacitors in place, I test the amplifier. The volume knob crackles when turned. Otherwise, the amplifier works as expected. The 50Hz hum is gone.
+Once the capacitors arrive by mail, I continue with the electrical repair. With the new capacitors in place, I test the amplifier. The 50Hz hum is gone. The volume knob crackles when turned. Otherwise, the amplifier works as expected.
 
-The PCB bend marks are not visible on the side with the traces. These are no concern. There is quite some 40 year old flux residue on the solder side of the PCB, which I clean up using some isapropanol alcohol.
-
-I fix the volume knob using some contact spray. Spray a bit of contact spray inside the potentiometer — on the Sugden that’s the blue box right behind the volume knob — then rotate the volume knob up and down for a minute or two.
-
-Lastly, I apply some silicone glue to the bigger electrolytic capacitors. This amplifier won’t be shaken much, but I want to deliver quality. A bit of silicone glue relieves the stress on the capacitor leads when the amplifier is moved or shaken.
+I fix the volume knob using some contact spray. I spray a bit of contact spray through the small gaps of the potentiometer housing — on the Sugden that’s the blue box right behind the volume knob — then rotate the volume knob up and down for a minute or two.
 
 Time to go the extra mile. I check the documentation for the bias current and find it should be between 80 and 100 mA. To measure the bias current, remove one of the four fuses near the power MOSFETs and replace it with a multimeter in current measurement mode.
 <img src="/assets/img/repairs/sugden_a25/IMG_0426.jpeg" />
 
 The Sugden measures around 110 mA on either channel. I tweak both trimmer pots to set the bias current to 90 mA. Then I wire the input and output of the Sugden to an oscilloscope and check how well the output matches the input when feeding a 5 kHz sine wave. The scope trace looks excellent — repair done!
 
-When the customer comes to pick up their amplifier he tells me that the amplifier has been turned on for most of its life. This explains the rectifier capacitor issue perfectly. Thes rectifier capacitors have been derivering for 40 years, they've held up well: The new ones have something to live up to.
+Lastly, I apply some silicone glue to the bigger electrolytic capacitors. This amplifier won’t be shaken much, but I want to deliver quality. A bit of silicone glue relieves the stress on the capacitor leads when the amplifier is moved or shaken.
+
+When the customer comes to pick up their amplifier he tells me that the amplifier has been turned on for most of its life. This explains the rectifier capacitor issue perfectly. These rectifier capacitors have been maintaining a voltage for 40 years, they've held up well: The replacement capacitors have something to live up to.
