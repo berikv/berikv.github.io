@@ -5,6 +5,7 @@ date: 2025-03-22 14:30:00 +0200
 title: Handling Software Errors Effectively
 abstract: Learn how distinguishing between user-caused and system-caused errors improves your app's reliability and usability.
 categories: Programming
+published: false
 ---
 
 ## Handling software errors
